@@ -15,9 +15,8 @@ And people in poorer places give more in percent.
 
 How to answer online volunteers asking: **"What is the best (=highest-impact?) task I could work on today, given my talents and skills?"** 
 
-<a href="https://docs.google.com/spreadsheets/d/1mqKx8MIr6G2B-7nlYZ7NH9_RbyHCkQ9gTwY_m-WqmcA/edit?gid=0#gid=0"> <img src="https://github.com/user-attachments/assets/d891fcc3-fd50-4fe3-9df5-629c3f76c273"></a>
+<a href="https://docs.google.com/spreadsheets/d/1mqKx8MIr6G2B-7nlYZ7NH9_RbyHCkQ9gTwY_m-WqmcA/edit?gid=0#gid=0"> <img src="https://github.com/user-attachments/assets/6306223d-35f8-40ce-aa6a-70622c2d7939"></a>
 Another example for _potentially_ high impact:  Unicode.org uniformly defined 1,000s of emojis & pictograms, which are global language now. (With little grammar (color, gender), which could advance.) - There also are sets of 10,000s - specifically to aid disablities or illiteracy. And the largest one is commercially restricted.  Why aren't they unified? - Should this lead to my / your / our next project? <a href="https://github.com/mulberrysymbols/mulberry-symbols/issues/71"> mulberry-symbols#71 </a>
-
 
 ### Second thoughts
 
@@ -39,8 +38,7 @@ How to assess Wikipedia's total impacts? - It reduced the separation of language
 (From 2022 to 2026, counting those with over 130 stars and edited in the last ~400 days, while the total went from 124k to [150k](https://github.com/search?q=fork%3Atrue+stars%3A%3E130++pushed%3A%3E2025-01-01&type=repositories) only).
 
 - "Many Github issues belong to multiple repos" / Modularity and continuous integration across related projects  
-reduces duplicate work and maintenance; maximizes, productivity, continuity and the utility that each developer achieves.<br> <a href="https://web.archive.org/web/20241012155229/http://www.modulecounts.com/"> <img src="https://github.com/user-attachments/assets/82b293cc-bfb2-4746-bc56-8b46af813ce6"></a>
-
+reduces duplicate work and maintenance; maximizes, productivity, continuity and the utility that each developer achieves.<br> <a href="https://web.archive.org/web/20241012155229/http://www.modulecounts.com/"> <img src="https://github.com/user-attachments/assets/208e0cb6-46d2-415a-9ed8-28c7ba1ab50e"></a>
 
 
 
