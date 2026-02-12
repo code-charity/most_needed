@@ -1,7 +1,7 @@
 
 ### Open Source is lacking prioritization / coordination at scale
 
-In a day a few people per million may make contributions on Github or in Wikipedia, with immediate or substantial usage. - Why not few times more?
+In a day a few people per million may make contributions on Github or in Wikipedia, with immediate or substantial usage. - Why not a few times more?
 
 Wikipedia is "the largest repository" (which enables a [global todo list](https://en.wikipedia.org/wiki/Wikipedia:Most-linked-to_redlinks))
 Why aren't there more large, linked, interdisciplinary projects?*  
