@@ -3,7 +3,7 @@
 
 In a day a few people per million may make contributions on Github or in Wikipedia, with immediate or substantial usage. - Why not a few times more?
 
-Wikipedia is "the largest repository" (which enables a [global todo list](https://en.wikipedia.org/wiki/Wikipedia:Most-linked-to_redlinks))
+Wikipedia is "the largest repository" (which enables global todo lists [1.](https://en.wikipedia.org/w/index.php?title=Special:WantedPages&limit=500&offset=0), [2.](https://en.wikipedia.org/wiki/Wikipedia:Most-linked-to_redlinks))
 Why aren't there more large, linked, interdisciplinary projects?*  
 One Purpose could be to collect, analyze, combine and thus refine the 'fragmented cornucopia' of knowledge about nutrients.
 
