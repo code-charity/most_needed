@@ -6,7 +6,7 @@ In a day (only) a few people per million may make contributions on Github or in 
 Wikipedia is "the largest repository" (which enables global todo lists [1.](https://en.wikipedia.org/w/index.php?title=Special:WantedPages&limit=500&offset=0), [2.](https://en.wikipedia.org/wiki/Wikipedia:Most-linked-to_redlinks))
 <br> Why aren't there more large, linked, interdisciplinary projects?<b>*</b><br> One Purpose could be to collect, analyze, combine and thus refine the 'fragmented cornucopia' of knowledge about nutrients.
 
-Global coordination:   For example Bengali is one of the most common lanuages. (it has about [242](https://en.wikipedia.org/wiki/List_of_languages_by_total_number_of_speakers#Ethnologue_(2025)) Million First-Language (L1) Speakers.) - Yet [BN](https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8_%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE).wikipedia
+Global coordination:   For example Bengali is one of the most common lanuages. (it has about [242](https://en.wikipedia.org/wiki/List_of_languages_by_total_number_of_speakers#Ethnologue_(2025)) Million First-Language (L1) Speakers.) - Yet [bn](https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8_%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE).wikipedia
 is incomplete, which may increased the wealth divide. - Less common languages (Italian and German) can have more than 10 times the amount of articles.
 
 ~ 1% of personal income is donated to charity or given personally.
