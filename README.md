@@ -8,7 +8,7 @@ Wikipedia is "the largest repository" (which enables global todo lists [1.](http
 
 Global coordination: 
 For example Bengali is one of the most common lanuages. (it has about [242](https://en.wikipedia.org/wiki/List_of_languages_by_total_number_of_speakers#Ethnologue_(2025)) Million First-Language (L1) Speakers.) - Yet [BN](https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8_%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE).wikipedia
-) is still incomplete, which may increased the wealth divide. Less common languages (Italian and German) can have more than 10 times the amount of articles.)
+) is incomplete, which may increased the wealth divide.. - Less common languages (Italian and German) can have more than 10 times the amount of articles.
 
 ~ 1% of personal income is donated to charity or given personally.
 A majority might stay local and thus can't be prioritized by global poverty, efficiency or urgency.
