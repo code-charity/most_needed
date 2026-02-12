@@ -1,7 +1,7 @@
 
 ### Open Source is lacking prioritization / coordination at scale
 
-In a day a few people per million may make contributions on Github or in Wikipedia, with immediate or substantial usage. - Why not a few times more?
+In a day (only) a few people per million may make contributions on Github or in Wikipedia, with immediate or substantial usage. - Why not a few times more?
 
 Wikipedia is "the largest repository" (which enables global todo lists [1.](https://en.wikipedia.org/w/index.php?title=Special:WantedPages&limit=500&offset=0), [2.](https://en.wikipedia.org/wiki/Wikipedia:Most-linked-to_redlinks))
 <br> Why aren't there more large, linked, interdisciplinary projects?<b>*</b><br> One Purpose could be to collect, analyze, combine and thus refine the 'fragmented cornucopia' of knowledge about nutrients.
@@ -21,7 +21,7 @@ How to answer online volunteers asking: **"What is the best (=highest-impact?) t
 <a href="https://docs.google.com/spreadsheets/d/1mqKx8MIr6G2B-7nlYZ7NH9_RbyHCkQ9gTwY_m-WqmcA/edit?gid=0#gid=0"> <img src="https://github.com/user-attachments/assets/6306223d-35f8-40ce-aa6a-70622c2d7939"></a>
 Another example for _potentially_ high impact:  Unicode.org uniformly defined 1,000s of emojis & pictograms, which are global language now. (With little grammar (color, gender), which could advance.) - There also are sets of 10,000s - specifically to aid disablities or illiteracy. And the largest one is commercially restricted.  Why aren't they unified? - Should this lead to my / your / our next project? <a href="https://github.com/mulberrysymbols/mulberry-symbols/issues/71"> mulberry-symbols#71 </a>
 
-### Second thoughts
+### "Second thoughts"
 
 "Societal progress should be as fast as technical progress or ahead" How? 
 
