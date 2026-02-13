@@ -9,9 +9,9 @@ Wikipedia is "the largest repository" (which enables global todo lists [1.](http
 Global coordination:   For example Bengali is one of the most common lanuages. (it has about [242](https://en.wikipedia.org/wiki/List_of_languages_by_total_number_of_speakers#Ethnologue_(2025)) Million First-Language (L1) Speakers.) - Yet [bn.wikipedia](https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8_%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE)
 is incomplete, which may increased the wealth divide. - Less common languages (Italian and German) can have more than 10 times the amount of articles.
 
-~ 1% of personal income is donated to charity or given personally.
+Comparably ~ 1% of personal income is donated to charity or given personally and people in poorer places give more in percent (worldgivingreport.org) 
 A majority might stay local and thus can't be prioritized by global poverty, efficiency or urgency.
-And people in poorer places give more in percent. 
+
 
 ### Skill-/Talent- & Purpose-Matching 
 
@@ -20,17 +20,14 @@ How to answer online volunteers asking: **"What is the best (=highest-impact?) t
 <a href="https://docs.google.com/spreadsheets/d/1mqKx8MIr6G2B-7nlYZ7NH9_RbyHCkQ9gTwY_m-WqmcA/edit?gid=0#gid=0"> <img src="https://github.com/user-attachments/assets/6306223d-35f8-40ce-aa6a-70622c2d7939"></a>
 Another example for _potentially_ high impact:  Unicode.org uniformly defined 1,000s of emojis & pictograms, which are global language now. (With little grammar (color, gender), which could advance.) - There also are sets of 10,000s - specifically to aid disablities or illiteracy. And the largest one is commercially restricted.  Why aren't they unified? - Should this lead to my / your / our next project? <a href="https://github.com/mulberrysymbols/mulberry-symbols/issues/71"> mulberry-symbols#71 </a>
 
-### "Second thoughts"
-
-"Societal progress should be as fast as technical progress or ahead" How? 
+### Second thoughts
 
 Can we further world work and maximize good purpose, but serve good purpose only?  How to rule out adverse effects? 
+If successful, how to personally ensure our drive is and stays helping people? Can we stay humble if we successfully maximize efficency of good impact? 
+
+"Societal progress should be as fast as technical progress or ahead" - How? 
 How to rule out supporting centralization, hype, hubris or decadence?  
-
-If successfull, how to personally ensure our drive is and stays helping people? Can we stay humble if we successfully maximize efficency of good impact? 
-
 How to assess Wikipedia's total impacts? - It reduced the separation of languages and sowed foundational AI knowledge.
-
 
 ---
 ---
